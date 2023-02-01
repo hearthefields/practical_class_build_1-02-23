@@ -1,2 +1,5 @@
-# practical_class_build_1-02-23
-February 1, 2023 GitHub Testing (Midterms Prep)
+# 1st of February, 2023
+
+### GitHub Testing Portal 
+
+#### Practical Class Builds like this are necessary to test our understanding of the program so far. Can you believe it'll be Midterms soon?
