@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Slabo+27px&family=Ultra&display=swap');
+
+html { 
+    background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d); 
+    border: solid 25px;
+}
+
+body { 
+    font-family: 'Slabo 27px', serif;
+    font-size: 27px;
+    width: 990px;
+    margin: auto;
+}
+
+#wrapper{
+    text-align:center;
+   }
+
+   h1 {
+    font-family: 'Ultra', serif;
+    text-align:center;
+   }
+
+   h3 {
+    font-family: 'Ultra', serif;
+    text-align:center;
+   }
